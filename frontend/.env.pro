@@ -1,0 +1,2 @@
+APP_FLAG=pro
+APP_BASE_API_URL=/
